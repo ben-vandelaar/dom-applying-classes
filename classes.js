@@ -26,5 +26,8 @@ two.classList.add('green')
 }
 
 // CREATE FUNCTION three HERE
-
+function three (){
+  var three = document.getElementById('three')
+  three.classList.add('cyan')
+  }
 // CREATE FUNCTION makeVisible HERE
